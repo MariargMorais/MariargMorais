@@ -1,5 +1,3 @@
-![Coding banner](https://media.istockphoto.com/id/923729070/photo/glowing-blue-binary-code-matrix-background-wide-banner.jpg)
-
 ## 👋 &nbsp;Hey there! I'm Maria
 
 ### 👨🏻‍💻 &nbsp;About Me
