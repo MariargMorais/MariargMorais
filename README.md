@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Technologist in Systems Analysis and Development at IFPE.\
 🌱 &nbsp;I'm on track for learning more about Java, RPA & other thechs.\
 ✍️ &nbsp;In my free time, I like to watch shows and listen to music as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for volunteering or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at marirosagomesmorais@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Linkedin](https://br.linkedin.com/in/mariargmorais) for more details about me. I'm open to feedback and suggestions!
 
