@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Technologist in Systems Analysis and Development at IFPE.\
-🌱 &nbsp;I'm on track for learning more about Java, RPA & other thechs.\
+🌱 &nbsp;I'm on track for learning more about Java, JavaScript, React & other techs.\
 ✍️ &nbsp;In my free time, I like to watch shows and listen to music as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for volunteering or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at marirosagomesmorais@gmail.com! I'll try to respond as soon as I can.\
