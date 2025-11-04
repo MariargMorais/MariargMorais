@@ -1,39 +1,62 @@
-## 👋 &nbsp;Hey there! I'm Maria
+## 👋 &nbsp;Oiê! Eu sou a Maria
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Technologist in Systems Analysis and Development at IFPE.\
-🌱 &nbsp;I'm on track for learning more about Java, JavaScript, React & other techs.\
-✍️ &nbsp;In my free time, I like to watch shows and listen to music as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for volunteering or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at marirosagomesmorais@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Linkedin](https://br.linkedin.com/in/mariargmorais) for more details about me. I'm open to feedback and suggestions!
+Sou uma desenvolvedora apaixonada por tecnologia e boas práticas de engenharia de software. Tenho experiência sólida com **programação orientada a objetos (POO)** em **Java** e **C#**, além de atuar no **desenvolvimento de APIs REST**, **integrações entre sistemas corporativos** e **automação de processos**.
+
+Minha formação em **Análise e Desenvolvimento de Sistemas** me proporcionou base técnica e analítica para atuar em todas as fases do ciclo de vida do software — da **análise e codificação** até **testes, deploy e manutenção**.  
+Possuo vivência com **metodologias ágeis** (Scrum, Scrumban e Kanban) e foco em **organização, produtividade e colaboração em equipe**.
+
+Além disso, tenho experiência como **QA com Cypress**, o que ampliou minha visão sobre qualidade e entrega contínua. Também possuo conhecimentos práticos em **Linux** e gosto de aplicar conceitos ágeis na rotina pessoal.
+
+📍 Recife - PE, Brasil  
+💬 &nbsp;Aberta a trocas sobre desenvolvimento, arquitetura e boas práticas!  
+✉️ &nbsp;Entre em contato: **mariarosagomesmorais@gmail.com**  
+🔗 &nbsp;[LinkedIn](https://www.linkedin.com/in/mariargmorais/)  
+📸 &nbsp;[Instagram](https://www.instagram.com/mariamorais.dev/)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+---
+
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+#### 💻 Liguagens & Frameworks
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)&nbsp;
+
+#### 🧩 Bancos & Ferrametas
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
+![Hangfire](https://img.shields.io/badge/-Hangfire-333333?style=flat)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+### ⚙️ &nbsp;GitHub
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MariargMorais&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MariargMorais&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+  <a href="https://github.com/MariargMorais">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=MariargMorais&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=CCCCCC&icon_color=8A2BE2&hide_border=true" 
+      height="180em"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariargMorais&layout=compact&theme=transparent&title_color=8A2BE2&text_color=CCCCCC&hide_border=true" 
+      height="180em"
+    />
+  </a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+---
+
+⭐️ From [MariargMorais](https://github.com/MariargMorais)
